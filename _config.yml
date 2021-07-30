@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vermut(베로모또)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : " It ain't over till it's over."
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
